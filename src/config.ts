@@ -31,7 +31,7 @@ export const siteConfig: SiteConfig = {
 		fixed: true, // 对访问者隐藏主题色选择器
 	},
 	translate: {
-		enable: true, // 启用翻译功能
+		enable: false, // 启用翻译功能
 		service: "client.edge", // 使用 Edge 浏览器翻译服务
 		defaultLanguage: getTranslateLanguageFromConfig(SITE_LANG), // 根据站点语言自动设置默认翻译语言
 		showSelectTag: true, // 不显示默认语言选择下拉菜单，使用自定义按钮
