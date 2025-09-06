@@ -21,7 +21,7 @@ draft: false
 
 然后就是假期,
 假期干的事情就比较多了,但其实大部分时间都是在打游戏和看视频
-玩游戏的话我经常玩的是gmod和严阵以待,最近开始接触galgame(Fate:stay night/ATRI ~My Dear Moments~/饿殍/柚子社的原神作品(?))
+玩游戏的话我经常玩的是gmod和严阵以待,最近开始接触galgame(Fate:stay night/ATRI My Dear Moments/饿殍/~柚子社的原神作品~(?))
 有人可以一起玩的可以点这个网站的相关链接,里面有我的steam账号
 
 我还会玩一些音游,屁股肉rks14.1/舞萌11000分
