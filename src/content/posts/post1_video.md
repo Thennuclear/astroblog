@@ -4,7 +4,7 @@ published: 2025-07-04
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [视频]
 category: 视频
-draft: false
+draft: true
 ---
 
 我早就想要喷b站的神人推流机制了
