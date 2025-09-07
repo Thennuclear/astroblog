@@ -1,54 +1,64 @@
-# About This Site
+# 我是谁?
+能进到这个网站的的人大概率已经知道我是谁了
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+但还是简单介绍一下:
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+我是Thenuclear,一位普通也可能不普通的初中学生
+可能也是一位开发者(不是哥们你都搭上网站了不是开发者是什么)
 
-## 🌟 Theme Features
+# 我平时做些什么?
+## 学校
+周一到周五当然是上学,偶尔会整一些抽象活
+经常在班上当嘉豪(用白板打phigros和乌蒙(awmc)),像是那种用班上的电脑看股票然后叹气的人
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+## 假期
+假期干的事情就比较多了,但其实大部分时间都是在打游戏和看视频
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+### 关于我玩的游戏
+玩游戏的话我最常玩的是gomd
 
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
+最近开始接触galgame(Fate:stay night(很久以前摸过但没玩下去,现在重新拾起了)/ATRI My Dear Moments/饿殍/~柚子社的原神作品~(?))
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+我混起源引擎圈子,并为gmod使用RTX-Remix进行光影重置作出了些许贡献(详见我的b站小号)
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+战地系列平时也会玩一玩,最常玩的是1,第二是5,库里有但不怎么玩的是3/2042
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+硬核游戏也玩的比较多,比如武装突袭3/严阵以待/离线塔科夫/叛乱沙暴/红管2/潜行者mod整合版
 
----
+我还会玩一些音游,屁股肉rks14.1/舞萌11000分左右
+但是现在已经淡坑了(
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+然后就是二游,远古时期接触过FGO,现在主要是蔚蓝档案(也稍微有些淡坑了)
+
+有人可以一起玩的可以点这个网站上的相关链接,里面有我的steam账号
+### 除游戏之外的事
+首先就是你正在浏览的这个网站
+平时我闲着无聊可能会去学一些关于网络或者编程的东西来当作消遣,这个网站正是我做这些事情的成果之一
+再比如我学了GMOD Lua,写了两个简单的模组,可以在我的steam主页中的创意工坊物品中看到
+
+以及python也会一点
+
+然后就是我玩Wargame
+现在我有一把7075波带火控的精击4,跑分能稳80,但是它经常会出现问题,因此我学习了很多关于发射器维修的知识
+以及一把蓝鲸的2011,一把模立方的g17(基本是坏的)以及一名神秘入(柳枝)忘在我家的蓝星p320 m17
+本来我自己有一个蓝星p320 m18的,但现在已经~炸膛~坏了
+瞄具有沼泽鹿的GT PRO,杂牌四变点及假全息,还有一个不知名的6x24狙击镜
+造型方面我有一条自认为下些了功夫的腰封,一个AK弹挂,一个拾音耳机(本来是个EARMOR原品的M300T,但是丢了就换了一个廉价的Walker's Razor扎寨)
+
+我还会乐器
+主要是会吉他,吉他弹腻了买了一把小提琴,但是拉得不怎么样
+其他的乐器要是让我硬摸几个音也是可以的
+
+实在是没有事情做的时候会干任何事情(anything)
+
+# 想联系我?
+我的建议是给我发邮件:2804800171@qq.com
+
+如果有陌生人来加我QQ且没有说明来意的我会拒绝
+
+或者你也可以加我的steam,假期的话我基本24小时在线(除了睡觉),同上如果有陌生人来加我且没有说明来意的我会拒绝
+
+还有就是我这个人对陌生人比较内向且人机,最好不要对我抱有太大的热情
+
+# 大概就是这些东西,以后可能会进行补充
+# 编辑于2025/9/7
