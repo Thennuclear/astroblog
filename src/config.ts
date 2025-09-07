@@ -218,11 +218,12 @@ export const navBarConfig: NavBarConfig = {
 					url: "/posts/post2_about_me/",
 					icon: "fa6-solid:user-astronaut",
 				},
+				
 				{
-					name: "关于此网站"
-					url: "/posts/post3_about_site/"
-					icon: "mdi:web"
-				}
+					name: "关于此网站",
+					url: "/posts/post3_about_site/",
+					icon: "mdi:web",
+				},
 			
 			],
 		}
