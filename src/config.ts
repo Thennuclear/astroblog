@@ -275,8 +275,8 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "为什么会有这个网站？", // 公告标题
-	content: "只是突发奇想来练练手罢了", // 公告内容
+	title: "暂时没有要公告的东西", // 公告标题
+	content: "请输入文本", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: false, // 启用链接
