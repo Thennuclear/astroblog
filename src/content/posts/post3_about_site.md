@@ -4,7 +4,7 @@ published: 2025-08-30
 tags: [杂物间]
 category: 杂物
 draft: false
-sourcelink: https://thenuclear.online/posts/post3_about_site/
+sourceLink: https://thenuclear.online/posts/post3_about_site/
 pinned: true
 ---
 在关于我的那篇文章中我已经介绍了这个网站的来历
