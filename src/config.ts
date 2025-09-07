@@ -80,7 +80,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "一个基于内网穿透+硬套模版的blog", // 主页横幅主标题
+			title: "一个硬套模版的blog", // 主页横幅主标题
 
 			subtitle: [
 				"是的,这个域名是我花了6块钱买的",
