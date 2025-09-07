@@ -4,6 +4,7 @@ published: 2025-08-30
 tags: [杂物间]
 category: 杂物
 draft: false
+sourceLink:https://thenuclear.online/posts/post2_about_me/
 ---
 
 
@@ -62,8 +63,11 @@ draft: false
 
 # 想联系我?
 我的建议是给我发邮件:2804800171@qq.com
+
 如果有陌生人来加我QQ且没有说明来意的我会拒绝
+
 或者你也可以加我的steam,假期的话我基本24小时在线(除了睡觉),同上如果有陌生人来加我且没有说明来意的我会拒绝
+
 还有就是我这个人对陌生人比较内向且人机,最好不要对我抱有太大的热情
 
 # 大概就是这些东西,以后可能会进行补充
