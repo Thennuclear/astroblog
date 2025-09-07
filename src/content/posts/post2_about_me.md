@@ -5,7 +5,9 @@ tags: [杂物间]
 category: 杂物
 draft: false
 sourceLink: https://thenuclear.online/posts/post2_about_me/
+pinned: true
 ---
+
 
 
 # 我是谁?
