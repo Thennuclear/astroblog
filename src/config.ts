@@ -215,12 +215,14 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "关于我",
-					url: "/about/",
+					url: "/posts/post2_about_me/",
 					icon: "fa6-solid:user-astronaut",
 				},
-			
-			
-			
+				{
+					name: "关于此网站"
+					url: "/posts/post3_about_site/"
+					icon: "internet"
+				}
 			
 			],
 		}
