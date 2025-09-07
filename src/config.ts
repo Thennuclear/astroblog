@@ -221,7 +221,7 @@ export const navBarConfig: NavBarConfig = {
 				{
 					name: "关于此网站"
 					url: "/posts/post3_about_site/"
-					icon: "internet"
+					icon: "mdi:web"
 				}
 			
 			],
