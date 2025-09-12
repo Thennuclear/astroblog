@@ -4,7 +4,7 @@ published: 2025-08-30
 tags: [杂物间]
 category: 杂物
 draft: false
-sourceLink: https://thenuclear.online/posts/post2_about_me/
+sourceLink:https://thenuclear.online/posts/post2_about_me/
 pinned: true
 ---
 
