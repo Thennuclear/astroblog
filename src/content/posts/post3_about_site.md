@@ -1,5 +1,6 @@
 ---
 title: 关于此网站
+description: About this site
 published: 2025-08-30
 tags: [杂物间]
 category: 杂物
