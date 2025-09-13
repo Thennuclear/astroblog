@@ -30,4 +30,4 @@ pinned: true
 用的是Cloudflare Pages，一直都挺稳定的。
 然后关于这个网站的音乐播放器用的是Meting API
 我用另外一个静态托管网站Vercel将API托管到了https://meting-api-gamma-nine.vercel.app/
-然后再接入我的博客当中，就实现了可以播放我网易云歌单前200首歌的功能
+然后再接入我的博客当中，就实现了可以播放我网易云歌单前200首歌的功能(虽然但是由于服务器在国外所以国内放不了)
