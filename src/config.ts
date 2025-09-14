@@ -183,6 +183,13 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
+
+				{
+					name: "Twitch(不常播)",
+					url: "https://www.twitch.tv/thenuclaer",
+					external: true,
+					icon: "simple-icons:twitch",
+				},
 			],
 		},
 
