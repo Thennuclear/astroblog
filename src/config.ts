@@ -188,7 +188,7 @@ export const navBarConfig: NavBarConfig = {
 					name: "Twitch(不常播)",
 					url: "https://www.twitch.tv/thenuclaer",
 					external: true,
-					icon: "simple-icons:twitch",
+					icon: "fa6-brands:twitch",
 				},
 			],
 		},
