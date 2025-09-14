@@ -4,7 +4,7 @@ published: 2025-09-14
 tags: [杂物间]
 category: 杂物
 draft: false
-sourceLink: 
+sourceLink: https://thenuclear.online/posts/first_blog/
 ---
 如你所见,我花了两个小时来解决这个没什么用的问题
 
