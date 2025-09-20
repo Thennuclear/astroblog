@@ -1,12 +1,11 @@
 ---
-title: 关于2转8/16及16转8进制
+title: 进制转换小笔记
 published: 2025-09-20
-description: 关于进制转换的小笔记
 tags: [IO]
 category: IO
+draft: false
 sourceLink: https://thenuclear.online/posts/base_number/
 ---
-
 # 关于进制转换的笔记
 主要是关于2/8/16以及10进制的转换
 2转8/16:
@@ -27,5 +26,6 @@ sourceLink: https://thenuclear.online/posts/base_number/
 0 1 2 5 7 1 5
 
 即为0125715
+
 
 
