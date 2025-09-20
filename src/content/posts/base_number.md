@@ -1,3 +1,12 @@
+~~~
+title: 关于2转8/16及16转8进制
+published: 2025-09-20
+description: 关于进制转换的小笔记
+tags: IO
+category: IO
+sourceLink: https://thenuclear.online/posts/base_number/
+~~~
+
 # 关于进制转换的笔记
 主要是关于2/8/16以及10进制的转换
 2转8/16:
@@ -16,4 +25,5 @@
 0 001/010/101/111/001/101
 然后转每个2进制转成10进制
 0 1 2 5 7 1 5
+
 即为0125715
