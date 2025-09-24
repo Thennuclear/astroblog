@@ -6,7 +6,6 @@ tags: [杂物间]
 category: "杂物"
 sourcelink: "https://thenuclear.online/posts/justChat/"
 image: 
-  alt: '250923_1826'
   url: './250923_1826.jpg'
 draft: false
 ---
@@ -45,6 +44,7 @@ draft: false
 ---
 
 算了这次就先写这么多吧,不想动了
+
 
 
 
