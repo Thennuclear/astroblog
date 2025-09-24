@@ -1,13 +1,14 @@
 ---
-title: 闲聊(1)
-description: 由于台风放了两天假,属实是闲
-published: 2025/09/24
+title: "闲聊(1)"
+description: "由于台风放了两天假,属实是闲"
+published: 2025-09-24
 tags: [杂物间]
-category: 杂物
+category: "杂物"
 sourcelink: https://thenuclear.online/posts/justChat/
 image: 
   alt: '250923_1826'
   url: './250923_1826.jpg'
+draft: false
 ---
 是的,由于台风桦加沙的原因,整个广州都停课了.
 而且一停就是两天,理所当然得就变得闲起来了.
@@ -44,4 +45,5 @@ image:
 ---
 
 算了这次就先写这么多吧,不想动了
+
 
