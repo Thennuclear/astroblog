@@ -2,8 +2,8 @@
 title: 关于我
 published: 2025-08-30
 description: About me
-tags: [杂物间]
-category: 杂物
+tags: [信息学]
+category: informatics
 draft: false
 sourceLink: https://thenuclear.online/posts/post2_about_me/
 pinned: true
